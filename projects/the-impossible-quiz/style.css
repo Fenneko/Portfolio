@@ -1,7 +1,12 @@
 a {
     color: blue;
-    margin: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+    display: inline-block;
 }
 body {
     background-color: aliceblue;
+}
+center {
+    margin-top: 180px;
 }
