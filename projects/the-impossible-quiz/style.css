@@ -1,10 +1,15 @@
 a {
     color: blue;
-    margin: 100px;
+    margin-right: 50px;
+    margin-top: 60px;
+    display: inline-block;
 }
 .purple-link {
     color: purple;
 }
 body {
     background-color: aliceblue;
+}
+center {
+    margin-top: 180px;
 }
